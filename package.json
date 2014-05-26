@@ -1,0 +1,27 @@
+{
+  "name": "beatduino-helpers",
+  "version": "0.0.2",
+  "description": "Sugar for Rabbit-MQ connection and other assorted helper methods for Beatduino.",
+  "main": "beatduino-helpers.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sideb0ard/beatduino-helpers"
+  },
+  "dependencies" : {
+    "amqp": "0.1.x"
+  },
+  "keywords": [
+    "algorave",
+    "arduino",
+    "robots"
+  ],
+  "author": "Thorsten Sideb0ard and Tack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sideb0ard/beatduino-helpers/issues"
+  },
+  "homepage": "https://github.com/sideb0ard/beatduino-helpers"
+}
